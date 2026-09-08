@@ -1,24 +1,31 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [Data Science for Construction and Geotechnical Engineering],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
   authors: (
     (
       name: "Adityo Leonard",
-      department: [Department 1],
+      department: [Department of Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author1@illinois.edu",
+      email: "adityol2@illinois.edu",
     ),
     (
-      name: "Author 2",
-      department: [Department 2],
+      name: "Akram Muhammad",
+      department: [Department of Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author2@illinois.edu",
+      email: "akramm3@illinois.edu",
+    ),
+    (
+      name: "Jordan Mthombeni",
+      department: [Department of Civil and Environmental Engineering],
+      organization: [University of Illinois Urbana-Champaign],
+      location: [Urbana, IL, USA],
+      email: "dmtho@illinois.edu",
     ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
