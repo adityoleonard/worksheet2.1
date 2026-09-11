@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
 jobs:
-  render-report:
+  render-report-2:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
